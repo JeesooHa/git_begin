@@ -70,11 +70,11 @@ while play :
 
         if (computer == "paper"):
 
-            print ("You won.");
+            print ("You lost.");
 
         if (computer == "scissors"):
 
-            print ("You lost.");
+            print ("You won.");
 
     elif (player == "paper"):
 
