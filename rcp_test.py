@@ -59,7 +59,7 @@ while play :
         print ("Error. Enter your choice from rock, paper, scissors.")
 
 
-
+    print ("computer : " + computer);
     #result
 
     if (player == computer):    #case of result
