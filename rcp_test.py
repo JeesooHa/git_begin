@@ -98,15 +98,6 @@ while play :
 
     i = i + 1
 
-    #restart
-
-"""
-
-    while(i<10)
-
-        play = True
-
-   """
 
     #define end condition
 
